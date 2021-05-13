@@ -3,7 +3,7 @@
 <ul>
 <li>🏛 Studying in Manipal University Jaipur.</li>
 <li>💻I am passionate about competitive programming and  open source contributions.
-<li>⚡Fun Fact: Playing badminton and involve in other sports activities </li>
+<li>⚡Fun Fact: Playing badminton and involved in other sports activities </li>
 
 </ul>
 
